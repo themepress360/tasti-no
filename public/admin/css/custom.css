@@ -1,0 +1,43 @@
+a{
+	cursor:pointer;
+}
+.fixCircleImg {
+	margin: 0px !important;
+	float: none !important;
+	border: solid 1px #fff !important;
+	width: 50px !important;
+	height: 50px !important;
+	padding: 7px !important;
+	font-size: 26px !important;
+	text-transform: uppercase !important;
+}
+.fixTopMenuImage {
+	background: #c59140 !important;
+	line-height: 23px !important;
+	margin-top: 17px !important;
+	margin-right: 0px !important;
+	padding: 4px !important;
+	border: solid 2px #fff !important
+}
+.fixCircleImg2 {
+	margin: 0px !important;
+	float: none !important;
+	border: solid 4px #fff !important;
+	width: 90px !important;
+	height: 90px !important;
+	padding: 7px !important;
+	font-size: 52px !important;
+	text-transform: uppercase !important;
+}
+.media-main .info {
+	min-width:192px;
+}
+
+.pull-right.btn-group-sm{
+	position: absolute;
+	right: 20px;
+	top: 10px;
+}
+#sidebar-menu ul ul li a:hover{
+   color:#3c763d;
+}

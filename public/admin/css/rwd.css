@@ -1,0 +1,2493 @@
+
+/***Larger Dekstop ***/
+@media only screen and (max-width : 1920px) {
+
+body #wrapper .book-case {
+    max-width: 99%;
+    padding-left: 7px;
+}
+
+
+}
+
+@media only screen and (max-width : 1600px) {
+
+body .days-all .btn-group {
+  width: 333px;
+}
+body  .days-all .btn-group .btn.btn-primary {
+    padding: 8px 7px !important;
+}
+
+}
+
+/***Macbook pro***/
+
+@media only screen and (max-width : 1440px) {
+	#wrapper .filters-fields .l-days {
+    width: auto;
+}
+
+
+.filters-fields .fil-1 {
+    width: auto;
+}
+	
+body #wrapper .site-loc{
+	max-width: 448px;
+}	
+body #map{
+	max-width: 390px;
+}
+body #wrapper .case-list{
+	max-width: 448px;
+}
+body #wrapper  .emp-duration{
+	padding-left: 30px;
+}
+body #wrapper .content-page .b-border{
+	max-width: 467px;
+}	
+body #wrapper .content-page .trans-list{
+	max-width: 457px;
+}
+
+body .filters-fields .fil-1 {
+    width: auto !important;
+}
+body #wrapper .filters-fields .l-days {
+    width: auto !important;
+}
+.filters-fields .cust-rad{
+position: relative;
+    left: 8px;
+}
+
+}
+
+
+
+/***Laptop***/
+@media only screen and (max-width : 1366px) {
+
+#transcationID #datatable-buttons_info {margin-left: 30px;}
+#transcationID #datatable-buttons_paginate{margin-right: 25px;}
+#bookingPendingID .slt-inp{  margin-left: 0; }
+#bookingPendingID  #inpt-state-asig{  width: 100%; }
+
+#wrapper .users-list{
+	max-width: 418px;
+}
+	
+#wrapper .user-head {
+    max-width: 100% !important;
+}
+
+.fil-rec {
+    margin-right: 39px;
+	float: right !important;
+}
+#wrapper .cust-head {
+    max-width: 18% !important;
+}
+#wrapper  .button-menu-mobile.open-left {
+    display: none;
+}
+#wrapper .s-date {
+    margin-left: 45px;
+}
+body #wrapper .rit-search{
+	width: auto !important;
+}
+.hosp-history .h-history .inp-col{
+	margin-top: 17px !important;
+}
+.hosp-history #wrapper .h-history .inp-col .s-date {
+    margin-left: 33px !important;
+}
+body  #wrapper .hpro-head tr th {
+     width: 10% !important;
+    font-size: 13px;
+}
+body #wrapper .hours{
+	max-width: 95% !important;
+	margin-left: 43px;
+}
+body #wrapper .hos-tab table tr td {
+    width: 6% !important;
+	font-size: 12px;
+	line-height: 15px;
+	padding: 7px !important;
+}
+body #wrapper .filters-fields .l-days {
+    width: 23% !important;
+}
+body #wrapper .filters-fields .fil-1 {
+    width: 27%;
+}
+body #wrapper  .filters-fields .fil-1 label {
+    margin-top: -3px;
+}
+body #wrapper .book-tabs tr td {
+    font-size: 11px;
+	 padding: 11px !important;
+}
+body  #wrapper .book-tabs thead > tr > th {
+    font-size: 13px;
+}
+body  #wrapper .cust-tabs > tbody tr td {
+    padding: 11px !important;
+}
+body  #wrapper  .site-loc {
+	max-width: 399px;
+	margin-bottom: 20px;
+}
+body  #wrapper   .b-map {
+    height: 210px;
+    width: 330px;
+}
+body  #wrapper .case-list{
+	max-width: 400px;
+}
+body #wrapper .book-case {
+    margin-top: 0px;
+	max-width: 605px;
+	padding-left: 9px;
+}
+body  #wrapper .emp-detail {
+   margin-top: 0;
+}
+body  #wrapper .emp-duration{
+	padding-left:22px;
+}
+.book-order  #wrapper .btn-align{
+	float: none !important;
+	margin: 0 auto;
+	position: relative;
+    left: -22px;
+}
+.book-order #wrapper .slt-inp {
+    margin-left: 0px;
+}
+.book-order #wrapper .assign-btn{
+	margin-left: 27px;
+} 
+.book-order  #wrapper .dr-emp {
+    margin: 0px;
+}		
+body #wrapper .user-manage {
+    width: 370px;
+}
+.doctor-profile #wrapper .main-prof .m-address .v-maps {
+    margin-left: 0px !important;
+}
+.doctor-profile #wrapper .users-tab tr td.v-maps{
+	width: 20% !important;
+}
+.doctor-profile #wrapper  .user-prof {
+    width: 400px;
+}
+.doctor-profile #wrapper .table-info tr td{
+	font-size: 14px;
+	width: 72%;
+	padding: 13px;
+}
+.doctor-profile #wrapper .users-list {
+    width: 398px;
+}
+.doctor-profile a.inv-pr{
+	right: 29px !important;
+}
+.doctor-profile  .doc-main{
+	height: 506px;
+}
+.doctor-profile  #wrapper .doc-main .doc-prof .media-main .info h4 {
+  font-size: 20px;
+}
+.doctor-profile #wrapper .cust-tabs > tbody tr .loc-td{
+	position: relative;
+	left: -2px;
+	width: 93%;
+}
+.profile-edit #wrapper .doc-main .doc-prof .media-main .info h4 {
+    font-size: 22px;
+}
+.profile-edit #wrapper .b-border a.trans-btn{
+	padding-right: 43px;
+}
+.profile-edit #wrapper .data-list{
+	width: 403px;
+}
+.profile-edit #wrapper .m-address .v-maps {
+    margin-left: 0px;
+}
+.profile-edit #wrapper .media-main-b .p-loc {
+    margin-left: 16px;
+}
+.profile-edit #wrapper .f-loc{
+	font-size: 15px;
+	padding: 1px;
+}
+.book-order #wrapper .users-list{
+	width: 402px;
+}
+.books-his #wrapper .booking-head{
+	width: auto;
+}
+.books-his #wrapper .book-head tr th{
+	width: 9% !important;
+}
+.books-his  #wrapper .inv table tr td{
+	font-size: 14px;
+	line-height: 17px;
+}
+.invoices #wrapper .inv table tr td{
+	font-size: 15px;
+}
+
+body #wrapper .user-head  {
+       font-size: 22px !important;
+}
+.footer{
+	text-align: center !important;
+}
+#wrapper select#inpt-state-t{
+	background-position: 79% 12px;
+}
+#wrapper .booking-head {
+   width: 26% !important;
+}
+#wrapper .books table tr td {
+    width: 11% !important;
+	padding: 7px !important;
+	font-size: 13px !important;
+	line-height: 41px !important;
+}
+#wrapper .doc-left{
+	width: auto !important;
+}
+#wrapper .m-address .v-maps {
+    margin-left: 0;
+}
+body .invoice-btn {
+    margin-right: 35px;
+}
+#wrapper .data-list {
+    margin: 0 auto;
+    max-width: 485px;
+}
+ #wrapper .b-border a.trans-btn{
+	padding-right: 45px !important;
+}
+.fc-toolbar.fc-header-toolbar .fc-today-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right.fc-state-disabled {
+    margin-right: 9px;
+    margin-top: 8px;
+}
+body #invoice {
+    max-width: 416px;
+}
+body #wrapper .cust-head {
+    max-width: 16% !important;
+}
+body #wrapper .data-list .inbox-item{
+	padding-bottom: 13px !important;
+}
+body #wrapper .data-list .trans-list .inbox-item p{
+	line-height: 24px;
+	font-size: 14px;
+}
+ .days-all .btn-group{
+	width: 303px !important;
+	display: table-row !important;
+}
+#wrapper .data-list .inbox-item{
+	border-bottom: transparent;
+}
+body #wrapper .doc-main .doc-prof .media-main .info{
+	min-width: 151px;
+}
+body .b-border{
+	max-width: 415px;
+	left: 9px;
+}
+body  .pro-col {
+    max-width: 436px;
+	top: 1px;
+    left: 10px;
+}
+body  #wrapper .b-border a.trans-btn{
+	padding-right: 50px;
+}
+body  #transactions {
+    max-width: 411px;
+}
+body #wrapper .b-id {
+    width: 10% !important;
+}
+body #wrapper .trans-head tr th{
+	line-height: 20px;
+}
+ #wrapper .table-info tr td {
+    width: 69% !important;
+}
+body #map{
+    min-height: 273px;
+    max-width: 336px;
+    margin-top: 12px;
+    display: inline-block;
+}
+body #wrapper .book-detail{
+	min-height: 444px;
+}
+body #wrapper .content-page .trans-list{
+	max-width: 417px !important;
+}
+body #wrapper .content-page .b-border{
+	max-width: 416px !important;
+	left: 9px;
+}
+body #wrapper .content-page .m-address .v-maps {
+    margin-left: 0px;
+}
+.btn-align{
+	float: none !important;
+}
+
+}
+
+
+@media only screen and (max-width : 1280px) {
+	
+	
+body #wrapper .s-date {
+    margin-left: 33px !important;
+}
+.hosp-history #wrapper .h-history .inp-col .s-date {
+    margin-left: 11px !important;	
+}
+body #wrapper .filters-fields .l-days {
+    width: 25% !important;
+}
+body #wrapper .filters-fields .fil-1 {
+    width: 25%  !important;
+}
+
+body #wrapper .dr-emp {
+    margin: -7px;
+}
+body #wrapper .site-loc {
+    width: 371px;
+}
+body #wrapper .b-map{width: 300px;}
+body  #wrapper .emp-duration{
+    padding-left: 9px !important;
+}
+body #wrapper .case-list {
+    width: 372px !important;
+}
+.book-order  #wrapper .dr-emp{
+	margin: -10px !important;
+}
+.book-order #wrapper .slt-inp #inpt-state-asig{ width:188px;} 
+	
+.book-order	.book-case .panel-collapse .panel-body p {
+    font-size: 14px;
+}
+.book-case .panel-collapse .panel-body p {
+    font-size: 13px !important;
+}
+body #wrapper .users-list{width:382px;}
+
+body #wrapper .table-info tr td {
+    width: 71%;
+}
+.content-page > .content {
+    /* margin-bottom: 0; */
+}
+body #wrapper .user-manage {
+    width: 330px;
+}
+.doctor-profile #wrapper .user-prof {
+    width: 370px;
+}
+.doctor-profile #wrapper .users-list {
+    width: 369px;
+	padding: 16px;
+}
+.profile-edit #wrapper .m-address .v-maps {
+    margin-left: -9px;
+}
+.profile-edit #wrapper  .b-border{
+	width: 95%;
+	left: 10px;
+	height: 8vh;
+}
+.profile-edit #wrapper .invoice-btn{
+	margin-right: 20px;
+}
+.profile-edit #wrapper .tog .mk-trc.pull-left{
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.profile-edit #wrapper .pro-editwidth{
+	width:100%;
+}
+.profile-edit #wrapper .d-btn {
+    width: 4%;
+}
+.profile-edit #wrapper .pro-col{
+	float: none !important;
+    margin: 0 auto;
+    max-width: 423px;
+    overflow: hidden;
+}
+.profile-edit #wrapper .data-list {
+    width: 390px;
+}
+.book-order #wrapper .users-list{
+	width: 372px;
+}
+.book-order  #wrapper .btn-align{
+	float: none !important;
+	margin: 0 auto;
+    position: relative;
+    left: -25px;
+}
+.hosp-history #wrapper .trans-head tr th {
+    line-height: initial;
+}
+.doctor-profile a.inv-pr {
+    right: 3px !important;
+}
+.invoices #wrapper .inv table tr td{
+	font-size: 13px !important;
+	padding: 10px;
+}
+.list-views #wrapper .list-tab table th{
+	width: 67px;
+	height: 63px;
+}
+.list-views #wrapper .list-tab table tr td {
+    width: 60px;
+    height: 30px;
+    font-size: 13px;
+    padding: 11px;
+    line-height: 17px;
+}
+.trantion #wrapper .b-id {
+    width: 15% !important;
+}
+.user-manager #wrapper .user-head {
+    width: 260px;
+}
+body #wrapper .user-head  {
+       font-size: 22px !important;
+}
+.footer{
+	text-align: center !important;
+}
+body #wrapper select#inpt-state-t{
+	background-position: 79% 12px;
+}
+body #wrapper .cust-head {
+    max-width: 17% !important;
+}
+body #wrapper .booking-head {
+   width: 26% !important;
+}
+body #wrapper .books table tr td {
+    width: 11% !important;
+	padding: 7px !important;
+	font-size: 13px !important;
+	line-height: 41px !important;
+}
+ 
+body #wrapper #transactions {
+  max-width: 390px !important;
+}
+body .b-border {
+    max-width: 389px;
+}
+body .invoice-btn{
+	margin-right: 24px;
+} 
+body #invoice {
+    max-width: 389px;
+    border-bottom: transparent;
+}
+body #wrapper .b-border a.trans-btn{
+	height: 9vh;
+} 
+body #wrapper .b-id{
+    width: auto !important;
+}
+body #map{
+	min-height: 100%;
+	max-width: 100%;
+}
+body #wrapper .book-case{
+	max-width: 555px;
+} 
+body #wrapper .content-page .pro-col{
+	left: 0px;
+} 
+body #wrapper .content-page .m-address .v-maps {
+    margin-left: -13px;
+}
+ body #wrapper .content-page .b-border {
+   max-width: 391px !important;
+}
+
+}
+
+
+/***For All Tablets***/
+
+@media only screen and (min-width:1024px) and (max-width:1169px) {
+
+/* body #wrapper .user-head {
+    font-size: 19px !important;
+    margin-top: 20px;
+} */
+/* body .book-detail {
+    padding-bottom: 10.1em !important;
+} */
+
+.customers .modal-content {
+    width: 100%;
+}
+body #wrapper .cust-head {
+    max-width: 80% !important;
+    float: left;
+}
+.fil-rec{
+	margin-left: 0px;
+}
+.book-pagi .showing{
+	float: left;
+	margin-top: 8px;
+}
+.crnadeatailMAinBox .persInfoCRNAProfile h4 {font-size: 16px;}
+
+.crnadeatailMAinBox .persInfoCRNAProfile p{font-size: 14px;}
+
+.customer-list #wrapper .cust-head {max-width: 22% !important;}
+
+#wrapper  .button-menu-mobile.open-left {display: none;}
+
+#wrapper .faq-heading{width: 41%;font-size: 22px;}
+
+.faqs-sec #wrapper #mytable tbody tr td{font-size: 13px;}
+
+body #wrapper .user-head{
+	max-width: 100% !important;
+	font-size: 20px !important;
+	margin-top: 20px;
+}
+.user-manager #wrapper .user-head{
+font-size: 24px;
+}
+body #wrapper .rit-search{
+    width: auto !important;
+}
+body #wrapper .list-tab table tr td{
+	padding: 9px;
+	font-size: 11px;
+	line-height: 13px;
+}
+body #wrapper .trans-head tr th{
+	line-height: 25px;
+	padding: 10px;
+	font-size: 11px;
+}
+body #wrapper .inv table tr td{
+	padding: 9px;
+	font-size: 11px;
+	line-height: 13px;
+}
+body #wrapper  .slimScrollDiv{
+	height: initial !important;
+}
+body #wrapper  .sidebar-inner.slimscrollleft{
+	height: 874px !important;
+}
+.hosp-history #wrapper .h-history .inp-col .s-date {
+    margin-left: -25px !important;
+}
+body  #wrapper .h-history label{
+	font-size: 16px;
+}
+body #wrapper .hpro-head tr th {
+    width: 10% !important;
+}
+#wrapper .inv table td .v-pop{
+	padding: 5px 20px 4px 18px;
+}
+body #wrapper .hours {
+    max-width: 92% !important;
+    margin-left: 46px;
+}
+#wrapper .days-t span,#wrapper .hours-t span{
+	font-size: 11px;
+}
+body #wrapper .h-history .sorts .h-date{
+	margin-right: 39px;
+	float: right !important;
+	margin-left: -30px !important;
+}
+body #wrapper .filters-fields .fil-1 {
+    width: 45% !important;
+}
+body #wrapper .filters-fields .l-days {
+    width: 43% !important;
+}
+body #wrapper .site-loc {
+    width: 268px;
+}
+body #wrapper .b-map{
+	width: 195px;
+}
+body #wrapper .cust-summ  .site-loc .cust-rad label{
+	font-size: 12px;
+	padding-bottom: 12px;
+}
+body #wrapper .book-case {
+    margin-top: -2px;
+}
+body #wrapper .emp-detail {
+    margin-top: 0px;
+}
+body #wrapper .users-head h4 {
+    font-size: 20px;
+}
+body #wrapper .case-list{
+	padding: 13px;
+	height: 324px;
+	width: 269px;
+}
+body #wrapper .user-manage .timeline .timeline-panel p {
+    font-size: 16px;
+}
+body #wrapper .emps-head h3{
+	font-size: 20px;
+}
+body  #wrapper .dr-emp{
+	margin-top: -3px;
+	padding: 10px;
+	margin: 0;
+}
+body #wrapper .emp-duration {
+    padding-left: 17px;
+	font-size: 13px;
+}
+body #wrapper .attendence {
+   max-width: 340px;
+}
+body #wrapper .attendence  span.chks{
+	font-size: 12px;
+}
+body  #wrapper .doc-left h3 {
+    font-size: 18px;
+}
+body #wrapper .cust-tabs > tbody tr td {
+    padding: 9px !important;
+}
+body #wrapper .book-case .panel-title {
+    font-size: 20px;
+}
+body  #wrapper .book-case .panel-title {
+    font-size: 20px;
+}
+body  #wrapper .book-case .panel-collapse .panel-body p {
+    font-size: 13px;
+	width: 70px;
+	padding-bottom: 13px;
+}
+body  #wrapper .book-case .tags a{
+	line-height: 24px;
+	margin: 0 9px 0px -14px;
+	padding: 0px 10px;
+	height: 27px;
+}
+body  #wrapper .emp-width{
+	width: 99%;
+}
+body #wrapper .emp-duration{
+	font-size: 20px;
+	padding-left: 51px;
+}	
+body #wrapper .book-case .pro-pad{
+	padding-left:0px;
+}
+body #wrapper .pro-1{width: 108px !important;}
+.book-order #wrapper .emp-line::before {
+    height: 89px !important;
+}	
+.book-order #wrapper .timeline::before {
+    top: 59px;
+}
+.book-order #wrapper .dr-emp {
+    margin: -19px !important;
+}
+.book-order #wrapper .cancel-btn {
+    margin-left: 40px;
+}
+body #wrapper .cust-tabs > thead > tr > th{font-size: 14px;}
+body #wrapper .table-info tr td{
+	padding: 10px;
+	font-size: 12px;
+}
+.customer-profile  #wrapper .table-info .t-hrs{font-size: 13px;}
+.customer-profile #wrapper .users-list {
+    width: 275px;
+}
+body .see-all{
+	text-align: left !important;
+	margin-left: 6em;
+}
+body #wrapper .see-all a{
+	text-align: left !important;
+}
+body #wrapper .cust-text h4{font-size: 18px;}
+body #wrapper .user-manage {
+    width: 229px;
+}
+body #wrapper .table-info tr td {
+   width: 65% !important;
+}
+
+.doctor-profile #wrapper .doc-left{
+	padding-left: 0;
+	width: 72%;
+}
+.doctor-profile #wrapper .doc-main .doc-prof .media-main .info {
+    padding-left: 0;
+}
+.doctor-profile  #wrapper .users-tab tr td{
+	font-size: 11px;
+}
+.doctor-profile .doc-main {
+    height: 486px;
+}
+.doctor-profile #wrapper .user-prof {
+    width: 265px;
+}
+.doctor-profile #wrapper .table-info tr td {
+    font-size: 12px;
+    width: 68%;
+    padding: 13px;
+}
+.doctor-profile #wrapper .cust-text h4 {
+    font-size: 14px;
+}
+.doctor-profile #wrapper .users-list {
+    width: 265px;
+	 height: 217px;
+}
+.doctor-profile a.inv-pr {
+    right: 4px !important;
+}
+.doctor-profile #calendar{
+	max-width: 93.4%;
+	margin-left: 19px;
+}
+.doctor-profile  #wrapper .see-all a {
+	text-align: center;
+    margin-left: -17px;
+}
+.doctor-profile #wrapper .users-list .add-users {
+    margin-top: 12px;
+}
+#wrapper .pro-col{
+	width: 60% !important;
+	margin: 0 auto;
+	float: none !important;
+	overflow: hidden;
+}
+.book-order #wrapper .users-list {
+    width: 270px;
+}
+.book-order #wrapper .btn-align {
+    float: none !important;
+    margin: 0 auto;
+    position: relative;
+    left: -74px;
+}
+.books-his #wrapper .book-head tr th {
+    width: 22% !important;
+}
+.book-order #wrapper .emp-duration{
+	text-align: right;
+}
+.doctor-profile #wrapper .users-list .inbox-item p {
+	font-size: 13px;
+}
+body .pro-editwidth{
+	width: 99%;
+}
+body #wrapper .users-list{
+	max-width: 278px !important;
+}
+body #wrapper .table-info .t-hrs{
+	font-size: 11px;
+}
+body #wrapper .users-list .inbox-item p{
+	font-size: 11px;
+}
+body #wrapper .booking-head {
+    width: 37% !important;
+    font-size: 25px;
+}
+body #wrapper .content-page .b-border {
+    max-width: 415px !important;
+}
+
+
+}
+
+@media only screen and (max-width:960px) {
+
+body #wrapper .content-page .site-loc {
+    width: 100% !important;
+	max-width: 100% !important;
+}
+body #wrapper .content-page .book-case {
+    max-width: 99% !important;
+}
+body #wrapper .content-page .users-list {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+
+}
+
+
+@media only screen and (min-width:768px) and (max-width:1023px) {
+	
+.customers .modal-content {
+    width: 100%;
+}
+.send-btn{
+	text-align: center;
+}
+#wrapper .cust-head {
+   max-width: 100% !important;
+    float: left;
+}
+.user-pop .modal-dialog .modal-content .modal-body .u-field .col-md-6 .form-group input {
+	width: 100% !important;
+	height: auto !important;
+}
+#wrapper .user-head{
+	margin-left: 20px;
+	font-size: 25px;
+}
+.content-page > .content{
+		padding: 20px 30px 15px 0px;
+}
+#wrapper  .media-main .btnForCrnaInfoView{
+	font-size: 14px;
+}
+#wrapper .crnadeatailMAinBox .persInfoCRNAProfile h4{
+	font-size: 16px;
+}
+#wrapper .crnadeatailMAinBox .persInfoCRNAProfile p{
+	font-size: 12px;
+}
+.book-pagi .showing{
+	float: left;
+	margin-top: 8px;
+}
+.faqs-sec #wrapper #mytable tbody tr td{font-size: 13px;}
+
+#wrapper  .faq-filter{
+	float: left !important;
+}
+#wrapper .faq-heading{
+	margin-left: 49px;
+	font-size: 22px;
+}
+body #wrapper .user-head{
+max-width: 28% !important;
+font-size: 20px !important;
+margin-left: 0px !important;
+margin-top: 16px !important;
+}
+
+body #wrapper .rit-search{
+    width: auto !important;
+}
+body #wrapper .list-tab table tr td{
+	padding: 9px;
+	font-size: 11px;
+	line-height: 13px;
+}
+body #wrapper .trans-head tr th{
+	line-height: 25px;
+	padding: 10px;
+	font-size: 11px;
+}
+body #wrapper .l-view label {
+    max-width: 38%;
+}
+body #wrapper .inv table tr td{
+	padding: 9px !important;
+	font-size: 10px !important;
+	line-height: 17px !important;
+}
+body #wrapper  .slimScrollDiv{
+	height: initial !important;
+}
+body #wrapper  .sidebar-inner.slimscrollleft{
+	height: 874px !important;
+}
+body #wrapper  .content-page > .content {
+    margin-bottom: 240px;
+}
+body #wrapper .hours {
+    max-width: 92% !important;
+    margin-left: 46px;
+}
+#wrapper .days-t span,#wrapper .hours-t span{
+	font-size: 11px;
+}
+body #wrapper .h-history .sorts .h-date{
+	margin-right: 39px;
+	float: right !important;
+	margin-left: -30px !important;
+}
+body  .historys .h-history .inp-col  {
+	margin-top: 19px !important;
+}
+body #wrapper .filters-fields .fil-1 {
+    width: 48% !important;
+}
+body #wrapper .filters-fields .l-days {
+    width: 45% !important;
+    float: left;
+}
+body #wrapper .booking-head{
+	width: auto;
+}
+body #wrapper .site-loc {
+    width: 100%;
+}
+body #wrapper .book-case {
+    margin-top: 11px;
+}
+body #wrapper .b-map {
+    height: 216px;
+    width: 100%;
+    margin-left: 0;
+}
+body #wrapper  .site-loc .cust-rad {
+    float: none;
+}
+body #wrapper .emp-detail {
+    margin-top: 15px;
+}
+body #wrapper .case-his{    float: left !important;width: 92%;}
+body #wrapper .book-case .panel-collapse .panel-body p.tags a{padding: 0px 12px; }
+
+body #wrapper .users-width{ 
+	float: none !important;
+	max-width: 600px;
+	margin: 0 auto;
+	width: 55%;
+}
+.customer-profile #wrapper  .content-page{
+	padding-bottom: 0;
+}
+.customer-profile #wrapper .content-page > .content {
+    margin-bottom: 0;
+}
+.doctor-profile #wrapper .user-prof {
+    width: 420px;
+    margin: 0 auto;
+}
+.doctor-profile #wrapper .doc-left {
+    padding-left: 0;
+    width: 72%;
+}
+.doctor-profile #wrapper .doc-main .doc-prof .media-main .info h4 {
+    font-size: 18px;
+}
+#wrapper .pro-col{
+	width: 64% !important;
+	margin: 0 auto;
+	float: none !important;
+	overflow: hidden;
+}
+.profile-edit #wrapper .content-page{
+	padding-bottom: 0;
+}
+.profile-edit #wrapper .content-page > .content {
+    margin-bottom: 80px;
+}
+.profile-edit #wrapper .b-border {
+    width: 98%;
+    left: 5px;
+    height: 6vh;
+}
+.profile-edit #wrapper .invoice-btn {
+    margin-right: 37px;
+}
+.profile-edit #wrapper .b-border a.trans-btn{
+		height: 6vh;
+}
+.profile-edit #wrapper .book-btn {
+    margin-top: 17px;
+}
+.book-order #wrapper .case-his {
+    margin: 0 auto;
+    float: none !important;
+    max-width: 381px;
+}
+.book-order #wrapper .btn-align{
+		position: relative;
+	    left: 62px;
+}
+.doctor-profile .doc-main {
+    height: 530px;
+}
+.doctor-profile #wrapper .users-list {
+    width: 360px;
+    margin: 29px auto;
+    margin-left: auto;
+    max-width: 365px;
+    margin-left: -40px;
+}
+.book-order  #wrapper .user-manage{
+	overflow: initial;
+}
+.book-order #wrapper .emp-duration{
+	text-align: right;
+}
+.booking-detail #wrapper .emp-duration{
+	text-align: right;
+}
+.user-manager #wrapper .user-head{
+	font-size: 24px;
+}
+body #wrapper .b-border a.trans-btn {
+    height: 6vh;
+}
+body #wrapper #transactions {
+    max-width: 407px;
+}
+body .b-border {
+    max-width: 407px;
+}
+body #wrapper .cust-head {
+    max-width: 27% !important;
+}
+#map{
+	width: 100% !important;
+}
+body #wrapper .site-loc {
+    max-width: 575px !important;
+}
+body #wrapper .book-case {
+    max-width: 585px !important;
+}
+body #wrapper .users-list {
+	max-width: 575px !important;
+	width: 600px !important;
+}
+/* #wrapper .case-list h4{
+	text-align: center;
+	margin-left: 19px !important;
+}
+body #wrapper .users-head {
+    float: none;
+}
+#wrapper  .user-manage .timeline > li > .timeline-badge{
+	top: 9px;
+	left: 107px;
+}
+#wrapper  .user-manage .timeline::before {
+    top: 63px;
+	height: 76px !important;
+	left: 121px;
+} */
+body #wrapper .user-manage {
+    width: 450px;
+/*     margin: 0 auto;
+    text-align: center;
+	margin-left: -1em !important; */
+}
+body #wrapper .emp-duration{
+	width: 33% !important;
+	padding-left: 51px !important;
+}
+
+
+}
+
+
+@media only screen and (max-width:767px) {
+	body #wrapper .site-loc{
+		width:100%;
+		max-width: 100%;
+	}
+body #map{
+	width: 100% !important;
+}
+	
+}
+
+
+@media only screen and (max-width:640px) {
+	
+body #wrapper .content-page .emp-detail{
+		width: 524px;
+}
+body #wrapper .content-page .book-case {
+  max-width: 106% !important;
+}	
+body #wrapper .content-page .users-list{
+	max-width: 92% !important;
+}
+body #wrapper .content-page.users-head {
+    float: none;
+    text-align: center;
+}
+	
+}
+
+
+
+
+
+/***For All Mobiles***/
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+	
+#wrapper  .button-menu-mobile.open-left {
+	display: block;
+}
+ body #wrapper  .topbar .topbar-left{
+	width: 230px !important;
+}
+.filter-by{
+	width: 25%;
+}
+.customer-list #wrapper .cust-head {
+    max-width: 27% !important;
+    font-size: 20px;
+    margin-left: 17px;
+}
+#wrapper .faq-heading{
+	font-size: 16px;
+	max-width: 55%;
+	margin-left: 55px;
+}
+#wrapper .faq-searchs{
+	width: 60%;
+}
+#wrapper .faq-filter{
+	margin-left: 14px;
+	float: none !important;
+}
+.faq-modal .faq-pop {
+       width: 450px !important;
+}
+#wrapper .user-head{
+	text-align: center;
+	display: inherit;
+	font-size: 24px;
+}
+.ad-cr{
+	text-align: center;
+}
+.u-input{
+	margin: 0px auto;
+	float: none !important;
+}
+.user-sear .fil-rec{
+	text-align: center;
+	margin: 20px auto;
+	float: none !important;	
+}
+.user-manager .crnadeatailMAinBox{
+	float: none;
+	margin-left: 11px;
+}
+.book-pagi{
+	text-align: center;
+	max-width: 235px;
+	margin: 0px auto;
+}
+.book-pagi .showing{
+	margin-bottom: 10px;
+}
+.book-pagi  .nums{
+	float: none !important;
+	text-align: center;
+}
+body #wrapper .l-view label {
+    max-width: 26%;
+    margin-left: 37px;
+    font-size: 22px;
+}
+#wrapper .inv table tr td{
+	font-size: 12px;
+}
+body #wrapper .hos-tab .trans-head tr th{
+	font-size: 13px !important;
+}
+body #wrapper .hos-tab table tr td{
+	font-size: 12px;
+}
+body #wrapper .inv table td .v-pop{
+	padding: 5px 17px 4px 18px;
+}
+body  #wrapper .h-history label {
+    font-size: 16px;
+    margin-left: 37px;
+}
+body .h-history #wrapper .sorts{
+	margin-left: 0;
+	float: none;
+}
+p.h-date.s-date i.fa-angle-down::before {top: 70px;}
+
+ body #wrapper .h-history .sorts .fc-right{float: none !important;}
+
+#wrapper .h-date{margin-left: -2em !important;float: none !important;}
+body #wrapper .hours {max-width: 88% !important;}
+
+body #wrapper .books table tr td {
+    width: auto;
+    font-size: 12px;
+}
+body #wrapper .booking-head{
+	text-align: center;
+	font-size: 22px;
+	width: 100% !important;
+}
+body #wrapper .book-case {
+    max-width: 97%;
+}
+body #wrapper .case-list {
+    width: 372px !important;
+	padding-bottom: 0px !important;
+}
+body #wrapper  .case-his{
+	width: 100%;
+	max-width: 100%;
+}
+body #wrapper .content-page .users-list {
+     max-width: 93% !important;
+    width: 100% !important;
+}
+body #wrapper .content-page .dr-emp {
+    margin-left: 4em;
+}
+body #wrapper .emp-duration{
+	float: none !important;
+	margin: 0 auto;
+	text-align: center;
+}
+#wrapper .emps-head h3 {
+    font-size: 20px;
+    padding-left: 5px;
+   /*  text-align: center; */
+}
+body #wrapper .content-page .attendence {
+    max-width: 308px;
+}
+body #wrapper .content-page .emp-duration .emp-hrs{
+	float: none;
+}	
+body #wrapper .content-page.emps-head h3 {
+    font-size: 18px;
+    padding-left: 5px;
+    text-align: center;
+}
+body #wrapper .content-page .emp-detail {
+    width: 102%;
+}
+
+}
+
+
+
+@media only screen and (max-width:479px) {
+	
+.u-input{
+	width: 100%;
+}	
+p.fil-rec{
+	margin-left: 0;
+}	
+#wrapper .cust-head{
+	max-width: 100% !important;
+	padding-left: 52px;
+}
+
+#wrapper.enlarged .left.side-menu{
+	/* display:none; */
+}
+	.customers .modal-content {
+    width: 100%;
+}
+.customers .send-btn button{
+	text-align: center;
+float: none !important;
+}
+.send-btn{
+	text-align: center;
+}
+.faq-modal .faq-pop {
+    width: auto !important;
+}
+.save-doc{
+	margin-top: 13px;
+}
+#wrapper .faq-heading{
+		margin-left: 39px;
+	font-size: 18px;
+}
+#wrapper .add-new{
+	padding-left: 50px;
+	float: left !important;
+}
+#wrapper .faq-filter{
+	margin-left: 48px;
+}
+#wrapper .f-input{
+	width: 90%;
+}
+.u-btn{
+	text-align: center;
+	float: none;
+}
+.u-btn button{
+	text-align: center !important;
+	float: none !important;
+	position: relative;
+    top: 22px;
+}
+.user-pop .modal-content{
+	width: auto !important;
+}
+.user-pop .modal-content {
+		width: 54% !important;
+		padding: 35px !important;
+}
+#wrapper .user-head{
+	max-width: 100% !important;
+	margin-left: 0;
+	text-align: center;
+	display: inherit;
+	font-size: 20px;
+}
+.user-sear .fil-rec{
+	margin-left: 0;
+}
+.user-sear .fil-rec {
+    margin-right: 7em;
+}
+.user-pop .fileupload{
+	margin-bottom: 13px;
+	margin-top: 10px;
+}
+.ad-cr{
+	margin-left: 30px;
+}
+#wrapper .booking-head {
+   max-width: 100% !important;
+	width: auto !important;
+}
+
+#wrapper .sorts {
+	margin-left: 28px;
+	float: left;
+}
+#wrapper .sorts .s-date {
+    margin-left: 0px;
+}
+#wrapper .rit-search{
+	margin-left: 30px;   
+	width: auto !important;
+	float: left;
+}
+#wrapper .rit-search .input-group{
+	width: 93%;
+}
+#wrapper .l-view label{
+	margin-left: 36px;
+}
+.enlarged .left.side-menu {
+   margin-left: -50px;
+}
+.hos-prof{
+	max-width: 500px;
+	width: 75%;
+	margin: 0 auto;
+}
+#wrapper .cust-main .gmaps, .gmaps-panaroma{
+	max-width: 300px;
+	margin-right: auto;
+	height: 300px;
+}
+#wrapper .users-list .media-main-cp .edit-ico{
+    right: 182px !important;
+}
+#wrapper .users-list{
+	max-width: 338px;
+	margin-left: auto;
+	margin-right: auto;
+	/* width: 94% !important; */
+}
+#wrapper .user-manage {
+    width: 289px;
+}
+#wrapper .cus-sum{
+	max-width: 320px;
+	margin-left: auto;
+}
+#wrapper .cust-main{
+/* 	max-width: 321px;
+	margin-left: auto; */
+}
+#wrapper .crnadeatailMAinBox .filters-fields .fil-1 {
+   width: 45% !important;
+}
+#wrapper .crnadeatailMAinBox .filters-fields .l-days {
+    width: 90% !important;
+}
+.cust-rad.radio.radio-info.radio-inline{
+		width: 0%;
+}
+#wrapper .book-pagi{
+	position: relative;
+	left: 0em;
+	text-align: center;
+}
+#wrapper .book-pagi .col-md-4{ 
+	margin-bottom: 10px;
+	float: none !important;
+}
+#wrapper .crnadeatailMAinBox .persInfoCRNAProfile h4 {
+    font-size: 16px;
+}
+#wrapper .crnadeatailMAinBox .persInfoCRNAProfile p{
+	font-size: 12px;
+}
+#wrapper .content-page > .content {
+   padding: 20px 15px 15px 0px;
+}
+#wrapper .side-menu.left{
+	height: 457px;
+} 
+ body #wrapper  .topbar .topbar-left{
+	width: 230px !important;
+}
+#wrapper .nums .pagination{
+	float: none !important;
+}
+#wrapper  .button-menu-mobile.open-left {
+	display: block;
+}
+.media-main .btnForCrnaInfoView{
+	font-size: 12px;
+}
+.customer-list #wrapper .cust-head {
+	max-width: 55% !important;
+	padding-left: 77px;
+	font-size: 20px;
+}
+#wrapper .ad-cr{
+	margin-left: 0;
+	text-align: center;
+}
+#wrapper .inv table tr td{
+	font-size: 12px;
+}
+body #wrapper .hos-tab .trans-head tr th{
+	font-size: 13px !important;
+}
+body #wrapper .hos-tab table tr td{
+	font-size: 12px;
+}
+body #wrapper .inv table td .v-pop{
+	padding: 5px 17px 4px 18px;
+}
+body .h-history #wrapper .sorts{
+	margin-left: 0;
+	float: none;
+}
+body #wrapper .hours {
+    max-width: 86% !important;
+    margin-left: 43px;
+}
+body #wrapper .tran-text{
+	text-align: center;
+	margin: 0 auto;
+	max-width: 500px;
+	font-size:22px;
+}
+body #wrapper .books table tr td {
+    width: auto;
+    font-size: 12px;
+}
+body  #wrapper .doc-left h3 {
+    font-size: 20px;
+}
+body  #wrapper .book-tabs thead > tr > th {
+    font-size: 14px;
+}
+body  #wrapper .book-tabs tr td{
+	 font-size: 12px;
+}
+body  #wrapper  .book-case {
+    margin-top: 28px !important;
+}
+body  #wrapper  .site-loc{
+	width: 335px !important; 
+}
+body  #wrapper  .b-map{
+	width: 270px !important;
+}
+body  #wrapper  .b-map{
+	width: 270px !important;
+	height: 199px;
+}
+body  #wrapper  .cust-summ .site-loc .cust-rad label{
+	font-size: 12px;
+    padding-bottom: 15px;
+}
+body #wrapper .case-list {
+    width: 314px !important;
+	float:left !important;
+}
+ body #wrapper  .book-case .panel-title {
+    font-size: 18px;
+}
+
+
+
+}
+@media only screen and (max-width:414px) {
+
+#wrapper .users-head{
+	text-align: center;
+	float: none !important;
+}
+#wrapper .users-head h4 {
+    font-size: 22px !important;
+}
+body #wrapper .user-manage {
+    width: 263px;
+}
+#wrapper .users-list{
+	max-width: 318px !important;
+}
+#wrapper .users-list .media-main-cp .edit-ico {
+   right: 27px !important;right: 27px !important;
+}
+#wrapper .table-info .t-hrs{
+	font-size: 13px;
+}
+#wrapper .table-info tr td {
+    width: 66% !important;
+}
+
+body #wrapper .emp-duration{
+	max-width: 200px;
+	margin: 9px auto;
+	padding-left: 0 !important;
+}
+	
+.emp-duration .emp-hrs{
+	float: none !important;
+	margin-left: 1em;
+}	
+body #wrapper .emps-head h3 {
+    font-size: 18px;
+   padding-left: 14px;
+	text-align: center;
+}
+.cust-rad.radio.radio-info.radio-inline {
+    width: auto;
+}	
+body #wrapper  .button-menu-mobile.open-left {
+    display: block !important;
+}
+#wrapper .crnadeatailMAinBox .filters-fields .l-days {
+    width: 100% !important;
+}
+body #wrapper .topbar .topbar-left {
+    width: 136px !important;
+}
+body .logo .logImg {
+    width: 130px !important;
+}
+ body #wrapper  .h-history .sorts{
+	     margin-left: 0;
+		 float: none;
+}
+p.h-date.s-date i.fa-angle-down::before {top: 46px;}
+
+ body #wrapper .h-history .sorts .fc-right{float: none !important;}
+
+#wrapper .h-date{margin-left: -2em !important;float: none !important;}
+body #wrapper .hours {max-width: 88% !important;}
+body #wrapper .booking-head{
+	text-align: center;
+	font-size: 22px;
+	width: 100% !important;
+}
+body #wrapper .doc-left h3 {
+    font-size: 16px;
+}
+body  #wrapper .book-tabs thead > tr > th {
+    font-size: 14px;
+}
+body  #wrapper .book-tabs tr td{
+	 font-size: 12px;
+}
+body  #wrapper  .book-case {
+    margin-top: 28px !important;
+	max-width: 320px;
+}
+body  #wrapper  .site-loc{
+	width: 100% !important; 
+}
+body  #wrapper  .b-map{
+	width: 250px !important;
+	height: 199px;
+}
+
+body  #wrapper  .cust-summ .site-loc .cust-rad label{
+	font-size: 12px;
+    padding-bottom: 15px;
+}
+body  #wrapper  .cust-summ .site-loc h4{
+	font-size:18px;
+}
+
+body #wrapper .case-his{
+	float:left !important;
+}
+body #wrapper .content-page .case-list{
+   /* max-width: 310px !important; */
+   padding: 19px;
+   max-width: 100% !important;
+}
+ body #wrapper .content-page .emp-detail {
+    margin-top: 4px;
+	max-width: 310px;
+}
+ body #wrapper  .attendence{text-align: center;}
+ body #wrapper  .attendence .emp-checks{
+	  margin: 0 auto;
+	float: none;
+}
+ body hr.v-line{
+	 display: none; 
+}
+ body #wrapper  .book-case .panel-title {
+    font-size: 18px;
+}
+body #wrapper  .book-case .panel-collapse .panel-body p {
+    font-size: 12px;
+}
+body #wrapper  .tags.pro-1{
+	width: 103px;
+}
+.book-order #wrapper .doc-bord{
+	margin-right: 17px !important;
+}
+.book-order #wrapper .b-map {
+   width: 251px !important;
+}
+.book-order #wrapper .btn-align{
+	position: relative;
+	left: 25px;
+}
+.customer-profile  #wrapper .doc-bord{
+	margin-right: 20px !important;
+}
+.customer-profile  #wrapper .table-info tr td{
+	font-size: 11px;
+}
+.customer-profile #wrapper .cust-text h4{font-size: 18px;}
+
+.customer-profile #wrapper .users-list{
+	float:none !important;
+	max-width: 345px;
+	margin: 0 auto;
+	width: 354px;
+}
+.customer-profile #wrapper .media-main-cp .edit-ico{
+	right: 25px !important;	
+}
+.customer-profile  #wrapper .users-list .inbox-item p{
+	font-size: 14px;
+}
+.customer-profile #wrapper .users-head h4 {
+    font-size: 22px;
+}
+.customer-profile  #wrapper .users-list .add-users a {
+    margin-right: 13px;
+}
+.customer-profile #wrapper  .see-all{
+	max-width: 311px;
+	margin: 16px auto;
+}
+.customer-profile #wrapper .user-manage {
+    width: 279px;
+}
+.doctor-profile #wrapper .doc-bord{
+	margin-right: 18px;
+}
+.doctor-profile #wrapper .doc-left{
+    width: 75%;
+	padding-left: 0;
+}
+
+.doctor-profile #wrapper .users-tab tr td {
+    font-size: 11px;
+}
+.doctor-profile #wrapper .cust-text h4 {
+    font-size: 20px;
+}
+#wrapper .users-list .add-users a{
+	 margin-right: 24px;
+    margin-top: 13px;
+    display: inline-block;
+}
+.doctor-profile #wrapper .doc-main {
+    height: 405px;
+	width: 316px;
+}
+.doctor-profile #wrapper .media-main .thumb-lg {
+    height: 70px;
+    width: 70px;
+}
+.doctor-profile #wrapper .doc-main .doc-prof .media-main .info h4 {
+    font-size: 18px;
+}
+.doctor-profile #wrapper .media-main a.pull-left {
+    width: 80px;
+}
+.doctor-profile #wrapper .user-prof {
+    width: 344px;
+}
+.doctor-profile #wrapper .users-list .inbox-item p {
+    font-size: 13px;
+	width: 105px;
+}
+.doctor-profile #wrapper .users-list {
+    width: 369px;
+	max-width: 95%;
+    padding: 16px;
+    max-width: 371px;
+    margin: 23px auto;
+	margin-left: 0px;
+}
+.doctor-profile #wrapper .users-head h4 {
+    font-size: 24px;
+}
+.doctor-profile #wrapper .users-list .add-users a {
+    margin-right: 5px;
+}
+.doctor-profile .calenViewMainBox button.fc-calenderview-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right::before{
+	margin-left: 96px;
+}
+.doctor-profile a.inv-pr{
+	    right: 56px !important;
+}
+.doctor-profile #wrapper .media-main-c .redirectAnch{
+	right: 60px;
+}
+.doctor-profile #wrapper .media-main-c .editusers{
+	right: 20px !important;
+}
+.doctor-profile #calendar {
+    position: relative;
+    left: 11px;
+}
+#calendar {
+    position: relative;
+    left: 0px;
+}
+.profile-edit .book-btn{
+	margin-top: 11px;
+}
+.profile-edit  #wrapper .doc-left{
+	width: 100%;
+}
+.profile-edit  #wrapper .media-main a.pull-left {
+    width: 65px;
+}
+.profile-edit  #wrapper .media-main .thumb-lg{
+	height: 65px;
+	width: 65px;
+}
+.profile-edit  #wrapper  .doc-right{
+	float: none !important;
+	margin: 0 auto;
+	max-width: 300px;
+	text-align: center;
+}
+.profile-edit #wrapper .doc-main .doc-prof .media-main .info {
+    padding-left: 14px;
+    position: relative;
+    top: -10px;
+    left: 9px;
+}
+.profile-edit #wrapper .d-btn {
+    width: 7%;
+}
+.profile-edit #wrapper  .main-prof .p-nos p{
+	font-size: 14px;
+}
+.profile-edit #wrapper .user-del {
+    height: 100%;
+}
+.profile-edit #wrapper .pro-col {
+    float: none !important;
+	width: 338px;
+}
+.profile-edit #wrapper .data-list {
+   width: 318px;
+}
+.profile-edit #wrapper .media-main-b p{
+	font-size: 14px;
+}
+.profile-edit #wrapper .u-add{
+	font-size: 13px;
+	padding-bottom:15px;
+	padding-top:15px;
+}
+.profile-edit #wrapper .b-border {
+	width: 94%;	
+	left: 10px;
+}
+.profile-edit #wrapper .b-border a.trans-btn {
+   padding-right: 17px;
+    padding-left: 7px;
+    font-size: 13px;
+}
+.profile-edit #wrapper .invoice-btn {
+   margin-right: 10px;
+	font-size: 13px !important;
+}
+.profile-edit #wrapper .data-list .trans-list .inbox-item .book-id{
+	font-size: 13px;
+}
+.profile-edit #wrapper .data-list .trans-list .inbox-item p{
+	font-size: 13px;
+}
+.profile-edit #wrapper #delete{
+	width: 97% !important;
+}
+.profile-edit .modal-content.del-popup{
+	width: 77%;
+	max-width: 381px;
+	margin-left: 14px;
+}
+.profile-edit .del-body p {
+    font-size: 14px;
+}
+.profile-edit .del-header h4 {
+    font-size: 20px;
+}
+.profile-edit .cust-rad.radio.radio-info.radio-inline {
+    width: auto;
+}
+.profile-edit #wrapper  .fc-toolbar .fc-left{
+	margin-left: 6em;
+	float: none !important;
+}
+.booking-detail .cust-rad.radio.radio-info.radio-inline {
+    width: auto;
+}
+.booking-detail #wrapper .b-map{
+	width: 239px !important;
+}
+.booking-detail #wrapper .case-list {
+	padding: 26px;
+   width: 315px !important;
+} 
+.booking-detail #wrapper .case-list  .panel-body{
+	height: 308px;
+}
+.booking-detail #wrapper  .emp-duration .emp-hrs{
+	float: none;
+}1
+.booking-detail #wrapper .emp-duration{
+	float: none !important;
+	text-align: center;	
+}
+.booking-detail #wrapper .content-page > .content {
+    padding: 20px 9px 15px 0px;
+}
+.book-order #wrapper .content-page > .content {
+    padding: 20px 18px 15px 0px;
+}
+.cal-view #wrapper .fc-toolbar .fc-left{
+	display: inline-block;
+	float: none !important;
+}
+.pro-inv #calendar {
+    position: relative;
+    left: 17px;
+}
+.profile-edit #calendar {
+    position: relative;
+    left: 16px;
+}
+.doctor-profile #wrapper .content-page > .content {
+    padding: 20px 22px 15px 0px;
+}
+.customer-profile #wrapper .content-page > .content {
+    padding: 20px 5px 15px 0px;
+}
+.book-order .cust-rad.radio.radio-info.radio-inline {
+   width: auto;
+}
+.book-order #wrapper .emp-duration {
+    padding-left: 9px !important;
+    float: none !important;
+    width: 100% !important;
+	text-align: center;
+}
+.book-order #wrapper .emp-duration .emp-hrs{
+	text-align: center;
+	 float: none !important;
+}
+.book-order #wrapper .slt-inp #inpt-state-asig {
+    width: 96% !important;
+    margin: 15px auto;
+}
+.book-order #wrapper .assign-btn {
+    margin-left: 79px;
+}
+.booking-detail #wrapper .emp-duration {
+    text-align: center;
+}
+.user-manager #wrapper .user-head{
+	width: 100%;
+}
+body #wrapper .dr-emp {
+    margin-left: 15px;
+}
+body #wrapper .content-page .data-list{
+	max-width: 347px;
+}
+body #wrapper .content-page .b-border a.trans-btn {
+    padding-right: 32px !important;
+	 height: auto;
+}
+body #wrapper .content-page .invoice-btn {
+    margin-right: 33px;
+}
+body #wrapper .content-page .b-border {
+	border: 0;
+}
+body #wrapper .content-page  #transactions {
+   max-width: 346px !important;
+}
+body #wrapper .content-page  .pro-col {
+  max-width: 368px;
+}
+body #wrapper .content-page .b-border {
+    max-width: 320px;
+	left: -18px;
+}
+body #wrapper .content-page .invoice-btn {
+  margin-right: -16px;
+}
+
+
+
+}
+
+@media only screen and (max-width:384px) {
+	.logo .logImg{
+			width: 141px;
+	}
+
+	
+}
+
+
+@media only screen and (max-width:375px) {
+	
+.user-pop .modal-content {
+    width: 51% !important;
+    padding: 30px !important;
+}
+.content-page > .content{
+	padding: 20px 10px 15px 0px;
+}
+#wrapper .logo .logImg{
+    width: 134px;
+    display: block;
+    margin-top: 5px;
+    margin-left: -7px;
+}
+ body #wrapper  .topbar .topbar-left{
+	width: 138px !important;
+}
+ .customer-list #wrapper .cust-head {
+	padding-left: 68px;
+} 
+#wrapper .faq-filter{
+	    margin-right: 62px;
+}
+.faqs-sec #wrapper #mytable tbody tr td{
+	font-size: 11px;
+}
+ body #wrapper .user-sear .fil-rec {
+    margin-right: 5em;
+}
+ body  #wrapper .dr-emp {
+    margin: 0;
+}
+body #wrapper .b-map {
+    width: 205px !important;
+}
+body #wrapper  .book-case .panel-collapse .panel-body p {
+    font-size: 12px !important;
+}
+body #wrapper  .tags.pro-1{
+	width: 103px;
+}
+.book-order #wrapper .b-map {
+    width: 233px !important;
+}
+.book-order #wrapper .book-case .panel-collapse .panel-body p {
+    font-size: 11px;
+}
+body #wrapper .case-list {
+    width: 306px !important;
+}
+body #wrapper .case-list {
+    width: 273px !important;
+	padding: 24px;
+}
+.customer-profile  #wrapper .doc-bord{
+	margin-right: 20px !important;
+}
+.customer-profile  #wrapper .table-info tr td{
+	font-size: 11px;
+}
+.customer-profile #wrapper .cust-text h4{font-size: 18px;}
+
+.customer-profile #wrapper .users-list{
+	float:none !important;
+	max-width: 307px;
+	margin: 0 auto;
+	width: 100% !important;
+	margin-left: -13px;
+}
+.customer-profile #wrapper .media-main-cp .edit-ico{
+	right: 33px !important;
+}
+.customer-profile  #wrapper .users-list .inbox-item p{
+	font-size: 14px;
+}
+.customer-profile #wrapper .users-head h4 {
+    font-size: 22px;
+
+}
+.customer-profile #wrapper  .see-all{
+	margin-right: 38px;
+	margin-top: 17px;
+}
+.doctor-profile #wrapper .media-main a.pull-left {
+    width: 66px;
+}
+.doctor-profile #wrapper .doc-left {
+    width: 70%;
+}
+.doctor-profile #wrapper .doc-main .doc-prof .media-main .info h4 {
+    font-size: 16px;
+}
+.doctor-profile #wrapper .media-main .thumb-lg {
+    height: 60px;
+    width: 60px;
+}
+.doctor-profile  #wrapper .doc-main .doc-prof .media-main .info {
+    padding-left: 12px;
+    position: relative;
+    top: -8px;
+    left: -9px;
+}
+.doctor-profile #wrapper .user-prof {
+    width: 316px;
+}
+.doctor-profile #wrapper .table-info tr td{
+	padding: 10px;
+}
+.doctor-profile a.inv-pr {
+    right: 65px !important;
+}
+.doctor-profile #wrapper .media-main-c .redirectAnch {
+    right: 52px;
+}
+.doctor-profile #wrapper .media-main-c .editusers {
+    right: 11px !important;
+}
+.doctor-profile #wrapper .users-list {
+    max-width: 94%;
+    margin: 0 auto;
+   margin-left: auto;
+   margin-left: 4px;
+}
+.doctor-profile a.inv-pr {
+    right: 94px !important;
+}
+.profile-edit .modal-content.del-popup{
+	max-width: 346px;
+}
+#days-modal .cal-content {
+    border-radius: 5px;
+    width: 345px;
+}
+.days-all .btn-group{
+	width: 327px;
+	margin-left: -22px;
+}
+.profile-edit #wrapper .content-page > .content {
+    padding: 20px 30px 15px 0px;
+}
+.profile-edit #wrapper .media-main-b .p-loc {
+    margin-left: 15px;
+}
+.profile-edit #wrapper .pro-col{
+	width: 306px;
+	margin-left: 10px;
+}
+.profile-edit #wrapper .b-border {
+    width: 84%;
+}
+.profile-edit #wrapper .b-border a.trans-btn {
+	padding-right: 12px;
+	padding-left: 0px;
+	font-size: 13px;
+	margin-left: -13px;
+}
+.profile-edit #wrapper .trans-list.inbox-item{
+	width: 284px;
+}
+.profile-edit #wrapper .inbox-widget.nicescroll.trans-list{
+	width: 284px;
+}
+.profile-edit #wrapper  .fc-toolbar .fc-left{
+	margin-left: 5em;
+	float: none !important;
+}
+.booking-detail #wrapper .b-map {
+    width: 212px !important;
+}
+.booking-detail #wrapper .case-list {
+    width: 280px !important;
+}
+.pro-inv #calendar {
+    position: relative;
+    left: 10px;
+}
+.profile-edit #calendar {
+    position: relative;
+    left: 10px;
+}
+.customer-profile #wrapper .users-list .add-users a {
+    margin-right: 5px;
+}
+body .profile span {
+    font-size: 10px;
+    padding-left: 8px;
+    padding-right: 21px !important;
+}
+#wrapper .users-head {
+   float: none !important;
+    text-align: center;
+}
+#wrapper .users-head h4 {
+    font-size: 20px !important;
+}
+#wrapper .timeline .timeline-panel p {
+    font-size: 14px;
+}
+#wrapper .user-manage .timeline .timeline-panel p {
+    font-size: 16px;
+}
+#wrapper .user-manage .timeline-panel span{
+	font-size: 12px;
+}
+#wrapper .user-manage .timeline-panel{
+	position: relative;
+	left: -1em;
+}
+#wrapper .user-manage .timeline{
+	padding: 18px 0 20px !important;
+}
+body ul.timeline-none-2::before {
+	height: 82px !important;
+}
+#wrapper .emps-head h3 {
+    font-size: 20px;
+    text-align: center;
+}
+body #wrapper .emp-duration {
+    max-width: 182px;
+	margin-top: 17px !important;
+}
+#wrapper .emps-head h3 {
+    font-size: 18px !important;
+    padding-left: 23px;
+}
+/* .profile span{
+	padding-left: 5px;
+	font-size: 12px;
+} */
+body .profile .usrImg {
+    width: 40px;
+    height: 40px;
+}
+body #wrapper .book-case{
+	max-width: 283px;
+}
+
+body #wrapper .content-page .pro-col {
+    max-width: 320px !important;
+	left: 10px !important;
+}
+body #wrapper .content-page #transactions {
+   max-width: 300px !important;
+}
+body #wrapper .content-page .b-border{
+	max-width: 320px !important;
+}
+
+
+}
+
+
+@media only screen and (max-width:360px) {
+
+body  #wrapper .content-page > .content {
+    padding: 20px 37px 15px 0px;
+}
+body  #wrapper .book-detail{width: 275px;}
+body #wrapper .site-loc {
+    width: 275px !important;
+}
+body #wrapper .book-case{width: 275px;}
+body #wrapper .case-list {
+    width: 275px !important;
+	padding: 22px;
+    padding-top: 18px;
+	padding-bottom: 0;
+}
+body #wrapper .emp-width{width: 295px;}
+.book-order #wrapper .doc-bord {
+    margin-right: 6px !important;
+}
+.book-order #wrapper .b-map {
+    width: 205px !important;
+}
+.book-order #wrapper .book-case .panel-collapse .panel-body p {
+    font-size: 9px;
+}
+.customer-profile #wrapper .doc-bord {
+    margin-right: -2px !important;
+}
+.customer-profile #wrapper .doc-left h3 {
+    font-size: 12px;
+}
+.customer-profile #wrapper .cust-tabs.table thead tr th{
+	font-size: 13px;
+}
+.customer-profile #wrapper .cust-tabs > tbody tr td {
+    font-size: 11px;
+}
+.customer-profile #wrapper .cust-month span {
+    padding-right: 4px;
+	font-size: 13px;
+}
+.customer-profile #wrapper .cust-text h4 {
+    font-size: 13px;
+}
+.customer-profile #wrapper .table-info tr td{
+	padding: 11px;
+    font-size: 11px;
+}
+.customer-profile #wrapper .users-list{
+	float:none !important;
+	max-width: 268px;
+	margin: 0 auto;
+	width: 354px;
+}
+.customer-profile #wrapper .media-main-cp .edit-ico{
+	right: 62px !important;
+}
+.customer-profile  #wrapper .users-list .inbox-item p{
+	font-size: 14px;
+	width: 150px;
+}
+.customer-profile #wrapper .users-head h4 {
+    font-size: 16px;
+    position: relative;
+    top: -4px;
+}
+.customer-profile #wrapper  .see-all{
+	max-width: 86px;
+	margin-top: 17px;
+    margin-left: 5em;
+}
+.doctor-profile #wrapper .users-list{
+	margin-right: -11px;
+}
+.doctor-profile a.inv-pr {
+    right: 105px !important;
+}
+.doctor-profile #wrapper .doc-main{
+	width: 308px;
+}
+body #wrapper .topbar .topbar-left {
+    width: 125px !important;
+}
+.doctor-profile	#wrapper .logo .logImg {
+    width: 122px;
+}
+.doctor-profile #wrapper  .media-main-c .editusers{
+	right: -16px !important;
+}
+.doctor-profile #wrapper .media-main-c .redirectAnch{
+	right: 26px;
+}
+.doctor-profile .calenViewMainBox button.fc-calenderview-button.fc-button.fc-state-default.fc-corner-left.fc-corner-right::before {
+    margin-left: 51px;
+}
+.profile-edit #wrapper .doc-left {
+    padding-left: 0px;
+}
+.profile-edit #wrapper .media-main-b .p-loc {
+    margin-left: 17px;
+    font-size: 12px;
+}
+.profile-edit #wrapper .pro-col {
+    width: 291px;
+}
+.profile-edit #wrapper .b-border {
+    width: 80%;
+}
+.profile-edit #wrapper .inbox-widget.nicescroll.trans-list {
+    width: 271px;
+}
+.booking-detail #wrapper .case-list {
+    width: 275px !important;
+}
+.booking-detail #wrapper .user-manage {
+    width: 245px;
+}
+.customer-profile #wrapper .content-page > .content {
+    padding: 20px 37px 15px 0px;
+}
+.customer-profile #wrapper .users-list{
+	margin-left: -13px !important;
+}
+.customer-profile #wrapper .users-list .add-users a {
+    margin-right: -11px;
+}
+.user-pop .modal-content {
+    width: 47% !important;
+}
+#wrapper .users-head {
+   float: none !important;
+    text-align: center;
+}
+#wrapper .users-head h4 {
+    font-size: 18px;
+}
+#wrapper .timeline .timeline-panel p {
+    font-size: 14px;
+}
+#wrapper .user-manage .timeline .timeline-panel p {
+    font-size: 16px;
+}
+#wrapper .user-manage .timeline-panel span{
+	font-size: 12px;
+}
+#wrapper .user-manage .timeline-panel{
+	position: relative;
+	left: -1em;
+}
+#wrapper .user-manage .timeline{
+	padding: 18px 0 20px !important;
+}
+body ul.timeline-none-2::before {
+	height: 82px !important;
+}
+body #wrapper .content-page .cust-summ{
+	width: 104%;
+}
+body #wrapper .content-page  .case-his{
+	width: 284px !important;
+}
+body #wrapper .content-page .emp-detail {
+    max-width: 265px;
+}
+body #wrapper .content-page .data-list {
+    max-width: 300px;
+}
+body #wrapper .content-page .b-border {
+    max-width: 312px;
+    left: -30px;
+}
+
+}
+
+@media only screen and (max-width:320px) {
+
+.logo .logImg {
+       width: 87px !important
+}
+#wrapper .topbar .topbar-left {
+    width: 88px !important;
+
+}
+.user-pop .modal-content {
+   width: 40% !important;
+   padding: 20px !important;
+}
+.user-pop .modal-dialog .modal-content .modal-body .u-field .col-md-6 .form-group input {
+    width: 100% !important;
+    height: 40px !important;
+}
+#wrapper .user-head {
+    max-width: 100% !important;
+    margin-left: 29px;
+    font-size: 23px;
+}
+.faq-modal .faq-pop{
+	top: 0px;
+}
+.faq-modal .modal-dialog .modal-content {
+    padding: 26px;
+    border-radius: 5px;
+}
+body #wrapper .user-sear .fil-rec {
+    margin-right: 3em;
+}
+.u-input{
+	float: none;
+}
+body  #wrapper .l-view label{
+	margin-left: 39px;
+	font-size: 20px;
+}
+body  #wrapper .h-history label{
+	font-size: 14px;
+}
+
+} 
